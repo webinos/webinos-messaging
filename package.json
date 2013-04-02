@@ -1,4 +1,4 @@
-{ "name": "messaging",
+{ "name": "webinos-messaging",
   "version": "0.0.1",
   "main": "./lib/messagehandler.js",
   "repositories": [
