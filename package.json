@@ -3,7 +3,7 @@
   "main": "./lib/messagehandler.js",
   "repositories": [
     { "type": "git",
-      "url": "https://github.com/webinos/webinos-messaging"
+      "url": "git://github.com/webinos/webinos-messaging.git"
     }
   ],
   "directories": {
