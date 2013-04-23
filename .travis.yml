@@ -4,4 +4,4 @@ node_js:
   - "0.10"
 install: npm install --save-dev
 before_install:
- - npm i -g jasmine-node node-gyp
+ - npm i -g jasmine-node
