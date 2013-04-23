@@ -8,5 +8,15 @@
   ],
   "directories": {
     "lib": "./lib"
+  }, 
+  "dependencies": {
+    "webinos-utilities": "git://github.com/webinos/webinos-utilities.git"
+  },  
+  "devDependencies" : 
+  {
+    "jasmine-node" : "1.x.x"
+  },
+  "scripts": {
+    "test": "jasmine-node ./test/jasmine"
   }
 }
